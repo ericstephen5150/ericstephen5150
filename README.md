@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericstephen5150
 - 👀 I’m interested in libre software.
-- 🌱 I’m currently learning programming with Python
+- 🌱 I’m currently learning programming how to program with Python.
 - 📫 How to reach me ericstephen@tutanota.com
 
 <!---
